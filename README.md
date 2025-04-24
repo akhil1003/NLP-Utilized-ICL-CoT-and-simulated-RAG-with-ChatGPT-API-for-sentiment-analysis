@@ -1,1 +1,2 @@
 # [language:Python] -> NLP-Utilized-ICL-CoT-and-simulated-RAG-with-ChatGPT-API-for-sentiment-analysis
+This is the code for analysing the sentiment of the Auditor report in a quarterly report of a company, identifying specific aspects of subjects using NLP and developing an LSTM model for analysis. Delivered actionable insights that enhanced investment decision-making and improved client relationship management in financial communications.
