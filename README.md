@@ -1,1 +1,1 @@
-# NLP-Utilized-ICL-CoT-and-simulated-RAG-with-ChatGPT-API-for-sentiment-analysis
+# [language:Python] -> NLP-Utilized-ICL-CoT-and-simulated-RAG-with-ChatGPT-API-for-sentiment-analysis
